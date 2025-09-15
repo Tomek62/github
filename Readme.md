@@ -23,7 +23,7 @@ You can run the `test.sql` script in your SQL database environment to create the
 
 ```sql
 -- In your SQL client or command line:
-SOURCE path/to/test.sql;
+SOURCE path/to/test.sql; hey
 ```
 
 ## License
